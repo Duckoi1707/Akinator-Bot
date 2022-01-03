@@ -38,6 +38,7 @@ AKI_LANG_CODE = {
     'ru': 'Russian',
     'tr': 'Turkish',
     'id': 'Indonesian',
+    'vi': 'Vietnam',
 }
 
 AKI_LANG_MSG = """
